@@ -1,0 +1,7 @@
+asset_id,description,asset_type,tax_basis,fair_market_value,prior_depreciation,recovery_years,remaining_years
+CASH,Operating cash and reserves,cash,1200000,1200000,0,,
+AR,Rents and other receivables,receivable,150000,150000,0,,
+LAND,Land at Maple Hollow Commons,land,6000000,9500000,0,,
+BLDG,Apartment buildings (312 units),residential_building,18000000,26000000,12000000,27.5,16.5
+FFE,Appliances and furniture,personal_property,300000,700000,1700000,5,
+COOP,Stonebridge Water Co-op shares,capital_asset,500000,350000,0,,
